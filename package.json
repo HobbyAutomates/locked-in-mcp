@@ -1,0 +1,8 @@
+{
+  "name": "bandlog-mcp",
+  "version": "1.0.0",
+  "description": "Zero-dependency MCP server: log workouts and meals, read streaks, in the Band Log Supabase schema",
+  "type": "module",
+  "bin": { "bandlog-mcp": "index.js" },
+  "engines": { "node": ">=18" }
+}
